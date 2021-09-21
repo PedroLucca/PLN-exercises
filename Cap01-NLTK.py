@@ -9,7 +9,7 @@ from nltk.tokenize import word_tokenize
 
 #Questao 4
 def questao_4():
-    print(len(text2)) #Número de palavras = 141576
+    print(print(len(text2))) #Número de palavras = 141576
 
 #Questao 6
 def questao_6():
